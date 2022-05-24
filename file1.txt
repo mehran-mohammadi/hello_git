@@ -1,0 +1,2 @@
+this file was created to check out how git works!
+created in github website itself.
